@@ -1,5 +1,7 @@
 # aplikasi-peminjaman-barang-berbasis-web
 
+https://www.plajarikode.com/2020/01/aplikasi-inventaris-php-mysql-part-1.html
+
 ## Import database
 1. buka phpmyadmin
 2. pilih menu import
