@@ -1,0 +1,10 @@
+# Part 1
+- Login Form
+- Database, link download ada dideskripsi
+- Koneksi
+- Proses login
+
+# Part 2
+- Menampilkan pesan kesalahan dihalaman login
+- Membuat Halaman Admin (header, content, footer)
+- Halaman Data Barang
